@@ -1,5 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/pages/welcome/welcome_page.dart';
+import // hello_world.dart // Pertemuan 4
+import // column_widget.dart // Pertemuan 4
+import // row_widget.dart // Pertemuan 4
+import // baris_kolom.dart // Pertemuan 4
+import // card_widget.dart // Pertemuan 5
+import // parsing.dart // Pertemuan 5
+import // halaman_kedua.dart // Pertemuan 6
+import // contoh_stateless.dart // Pertemuan 6
+import // contoh_stateful.dart // Pertemuan 6
+import // mahasiswa_form.dart // Pertemuan 7
+import // mahasiswa_detail.dart // Pertemuan 7
+          // PERTEMUAN 8 UTS //
 
 //import './column_row.dart';
 void main() => runApp(MyApp());
